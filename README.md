@@ -1,16 +1,17 @@
-## Hi there 👋
+# COSMODROME
 
-<!--
-**cosmodrome-lab/cosmodrome-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent Forensic Intelligence**
 
-Here are some ideas to get you started:
+We document what already happened — or what is about to — before it becomes public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Governance risk lives in timestamps, transaction sequences, and access control changes that precede public announcements by hours, days, or weeks.
+
+We collect. We timestamp. We preserve chain of custody.
+
+---
+
+→ [Public research](https://github.com/cosmodrome-lab/cosmodrome-research)  
+→ [Medium](https://medium.com/@Cosmodrome-eng.)  
+→ cosmodrome-lab@proton.me
