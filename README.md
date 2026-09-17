@@ -9,5 +9,5 @@ Supporting evidence is captured and hashed at the time of observation. Public re
 Public research is selective. Client work is private and confidential.
 
 → [Public Research](https://github.com/cosmodrome-lab/cosmodrome-research)
-→ [Medium](https://medium.com/@Cosmodrome-eng)
+→ [Medium](https://medium.com/@Cosmodrome-eng.)
 → [Contact](mailto:cosmodrome-lab@proton.me)
