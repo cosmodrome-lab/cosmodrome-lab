@@ -2,16 +2,27 @@
 
 **Independent Forensic Intelligence**
 
-We document what already happened — or what is about to — before it becomes public.
+COSMODROME identifies and preserves forensic signals from observed events across digital asset systems.
 
----
+Supporting evidence is captured and hashed at the time of observation. A signal may therefore exist before the event is publicly reported, interpreted, or recognized as material. Publication is separate and may occur later—or not at all.
 
-Governance risk lives in timestamps, transaction sequences, and access control changes that precede public announcements by hours, days, or weeks.
+## Scope
 
-We collect. We timestamp. We preserve chain of custody.
+We examine governance, control, execution, custody, disclosure, and structural trust risk.
 
----
+Our work is independent of promotional, management, and market narratives.
 
-→ [Public research](https://github.com/cosmodrome-lab/cosmodrome-research)  
-→ [Medium](https://medium.com/@Cosmodrome-eng.)  
-→ cosmodrome-lab@proton.me
+## Public Research
+
+HYPE is published openly as a research showcase.
+
+→ [COSMODROME Research on Medium](https://medium.com/@Cosmodrome-eng)
+
+## Private Work
+
+Scoped forensic analysis is available by request. Client work is private and confidential.
+
+## Contact
+
+Email: [cosmodrome-lab@proton.me](mailto:cosmodrome-lab@proton.me)
+X: [@CosmodromeX](https://x.com/CosmodromeX)
